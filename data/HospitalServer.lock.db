@@ -1,6 +1,6 @@
 #FileLock
-#Wed Nov 16 11:38:02 CST 2022
+#Thu Nov 17 08:54:41 CST 2022
 hostName=Leorden.lan
-id=1848184eaf8e0f0a4ed0a212beb1b64bb0ecd7fc04e
+id=1848615b10d55c7723fcaa376eec65ec073bd93986b
 method=file
-server=192.168.86.248\:60406
+server=192.168.86.248\:51808
